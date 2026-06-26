@@ -13,9 +13,9 @@ This project focuses on forecasting Amazon (AMZN) stock prices using traditional
 - Normalized data using MinMaxScaler
 - Split dataset into 80% training and 20% testing
 ## Models Implemented:
--ARMA (AutoRegressive Moving Average)
--LSTM (Long Short-Term Memory)
--GAN-assisted Time Series Augmentation
+- ARMA (AutoRegressive Moving Average)
+- LSTM (Long Short-Term Memory)
+- GAN-assisted Time Series Augmentation
 ## Evaluation Metrics:
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
